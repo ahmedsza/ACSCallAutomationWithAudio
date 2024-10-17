@@ -7,9 +7,7 @@
 This was originally taken from CallAutomation_OutboundCalling in this repohttps://github.com/Azure-Samples/Communication-Services-dotnet-quickstarts. But has been substantially modified to make it as simple as possible
 In this quickstart, we cover how you can use Call Automation SDK to make an outbound call to a phone number and use the newly announced integration with Azure AI services to play dynamic prompts to participants using Text-to-Speech and recognize user voice input through Speech-to-Text to drive business logic in your application.
 
-# Design
 
-![design](./data/OutboundCallDesign.png)
 
 ## Prerequisites
 
